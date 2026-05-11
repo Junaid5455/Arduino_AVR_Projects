@@ -42,7 +42,9 @@ The Temperature-Humidity App is designed to monitor and control real-time temper
 - Thanks to all contributors and supporters.
 
 ---
+JUNAID SHABEER
+Software, Embedded System & IoT Developer....
 
 ## Copyright
 
-© 2023 Junaid Shabbir. All rights reserved.
+© 2023 Junaid Shabeer. All rights reserved.
