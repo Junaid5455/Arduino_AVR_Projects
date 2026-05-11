@@ -95,4 +95,5 @@ This will ring the bell at **08:30:00**, and store the "minhum" value `50` (can 
 - Arduino community for awesome open-source libraries
 
 ..........................................................................................................................................................................................
-JUNAID SHABEER Experimental Physicist & IoT Developer.... LinkedIn:- www.linkedin.com/in/junaid-shabeer-machine-learning-physicist-b860a4285
+JUNAID SHABEER
+Software, Embedded System & IoT Developer....
